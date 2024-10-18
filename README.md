@@ -2,7 +2,7 @@
 This repository contains my custom implementations of standard C library string and memory manipulation functions. These functions are fundamental tools for working with text and memory in low-level programming, and by recreating them, I aim to deepen my understanding of how these core functions operate under the hood.
 
 # Implemented Functions
-You can found it here https://www.tutorialspoint.com/c_standard_library/string_h.htm
+You can find it here https://www.tutorialspoint.com/c_standard_library/string_h.htm
 
 # Purpose
 1- To better understand low-level operations and memory management.
