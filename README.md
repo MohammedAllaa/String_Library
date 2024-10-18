@@ -6,8 +6,11 @@ You can found it here https://www.tutorialspoint.com/c_standard_library/string_h
 
 # Purpose
 1- To better understand low-level operations and memory management.
+
 2- To provide a learning resource for others interested in systems programming.
+
 3- To demonstrate custom implementation skills for these widely-used functions.
+
 Each function is carefully tested and follows the same behavior as their standard library counterparts, ensuring compatibility with existing C programs.
 
 # How to Use
